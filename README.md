@@ -17,7 +17,7 @@
     <div>
       <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px" style="text-align:center" align="center">
       <a href="https://discord.com/users/642791754160013312">Discord</a>
-    |
+      ︲
       <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="center">
       <a href="glitchii.netlify.com">Website</a>
     </div>
@@ -51,18 +51,5 @@
   <img src="https://www.ostraining.com/cdn/images/coding/html5-css3-hd.jpg" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" align="center" width="25px" style="padding: 0 3px;">
 </div>
-<p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p>
+<!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
 </div>
-
-<style>
-@keyframes fadeIn { from { opacity: 0;} to { opacity: 1; } }
-@keyframes fadeOut { from { opacity: 1;} to { opacity: 0; } }
-@keyframes comeDown {
-  from {
-    opacity: 0;
-    transform: translateY(-100px);
-  } to { opacity: 1; }
-  }
-.desc{ animation: 2s ease fadeIn; }
-.first{ animation: comeDown 1s ease; }
-</style>
