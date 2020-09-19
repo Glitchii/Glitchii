@@ -1,25 +1,19 @@
-<div class="first">
+<div>
   <p align="center">
     <!-- <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="30%"> -->
     <h1 align="center" >Glitchii</h1>
-    <!-- <p align="center" style="font-size: 27px; font-weight: 500;">Glitchii</p>
-    <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent);"></div> -->
     <br>
-    <div align="center" class="desc">
+    <div align="center">
       Hi, call me Glitchii. I like technology and programming.<br>
       Mostly in Python, but I have also experience with JavaScript and C#.
       I mostly work on discord bots and websites. <br>
       I'm currently working on <a href="https://discord.com/oauth2/authorize?client_id=663074487335649292&scope=bot&permissions=1479928959"> my discord bot</a>s website.
     </div>
   </p>
-  <!-- <div width="1px" height="30px" style="width: 1px; height: 30px; margin: 0 10px; background: linear-gradient(to top, transparent, rgb(133, 133, 133), transparent);"></div> -->
   <div style="display: flex; text-align: center; position: relative; left: 50%; transform: translateX(-50px);" align="center">
     <div>
       <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px" style="text-align:center" align="center">
-      <!-- <a href="https://discord.com/users/642791754160013312">Discord</a> -->
-      ︲
-      <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="center">
-      <!-- <a href="glitchii.netlify.com">Website</a> -->
+      <a href="https://discord.com/users/642791754160013312">Discord</a>︲<img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="center"><a href="glitchii.netlify.com">Website</a>
     </div>
   </div>
 
@@ -35,17 +29,17 @@
 
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact</summary>
-  I'm quite active on discord, so feel free to message me there if you prefer<br>
-  <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
-  <a href="https://discord.com/users/642791754160013312">Discord: Λcє#2104</a>
+       <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
+       <a href="https://discord.com/users/642791754160013312">Discord: Λcє#2104</a>
   <br>
-  <img src="https://www.flaticon.com/svg/static/icons/svg/580/580704.svg" width="19px " style="text-align:center" align="center">
-  <a href="mailto:lorem.ipsum@mailsire.com">Email</a>
+       <img src="https://www.flaticon.com/svg/static/icons/svg/580/580704.svg" width="19px " style="text-align:center" align="center">
+       <a href="mailto:lorem.ipsum@mailsire.com">Email</a>
+  <br>     I'm quite active on discord, so feel free to message me there if you prefer
 </details>
 
 <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
 <p style="font-size: 20px;  font-weight: 500;">Programming languages</p>
-<div class="plangs">
+<div>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://miro.medium.com/max/400/1*7xUxphx7WwttvlFu5gVvVw.png" align="center" width="25px" style="padding: 0 3px;">
