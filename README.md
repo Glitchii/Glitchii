@@ -13,7 +13,7 @@
   <div style="display: flex; text-align: center; position: relative; left: 50%; transform: translateX(-50px);" align="center">
     <div>
       <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px" style="text-align:center" align="center">
-      <a href="https://discord.com/users/642791754160013312">Discord</a>︲<img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="center"><a href="glitchii.netlify.com">Website</a>
+      <a href="https://discord.com/users/642791754160013312">Discord</a>︲<img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="center"><a href="//glitchii.netlify.com">Website</a>
     </div>
   </div>
 
