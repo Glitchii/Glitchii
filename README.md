@@ -33,7 +33,7 @@
        <a href="https://discord.com/users/642791754160013312">Discord: Λcє#2104</a>
   <br>
        <img src="https://www.flaticon.com/svg/static/icons/svg/580/580704.svg" width="19px " style="text-align:center" align="center">
-       <a href="mailto:lorem.ipsum@mailsire.com">Email</a>
+       <a href="mailto:hello@tempfile.site">Email: hello@tempfile.site</a>
   <br>     I'm quite active on discord, so feel free to message me there if you prefer
 </details>
 
