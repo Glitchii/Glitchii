@@ -12,7 +12,7 @@
   </p>
   <div style="display: flex; text-align: center; position: relative; left: 50%; transform: translateX(-50px);" align="center">
     <div>
-      <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px" style="text-align:center" align="center">
+      <img src="https://img.icons8.com/color/1600/discord-new-logo.png" width="19px" style="text-align:center" align="center">
       <a href="https://discord.com/users/642791754160013312">Discord</a>︲<img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="center"><a href="https://glitchii.github.io/">Website</a>
     </div>
   </div>
@@ -21,8 +21,10 @@
   <summary>Statistics</summary>
 <p align=center>
 <a href="https://github.com/glitchii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchii&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Oxy's Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchii&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Oxy's Statistics." />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchii&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchii&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchii&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchii&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
 </a>
 </p>
 </details>
