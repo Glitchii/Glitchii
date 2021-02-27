@@ -32,7 +32,7 @@
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact</summary>
        <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
-       <a href="https://discord.com/users/642791754160013312">Discord: Λcє#2104</a>
+       <a href="https://discord.com/users/642791754160013312">Discord: Λcє#0001</a>
   <br>
        <img src="https://www.flaticon.com/svg/static/icons/svg/580/580704.svg" width="19px " style="text-align:center" align="center">
        <a href="mailto:hello@tempfile.site">Email: hello@tempfile.site</a>
