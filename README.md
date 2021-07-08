@@ -44,7 +44,7 @@
 <div>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://miro.medium.com/max/400/1*7xUxphx7WwttvlFu5gVvVw.png" align="center" width="25px" style="padding: 0 3px;">
+  <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://www.seekpng.com/png/full/141-1415523_responsive-web-design-with-html5-css3-html-and.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://iconape.com/wp-content/files/rr/352323/png/c-sharp-c-logo.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png" align="center" width="25px" style="padding: 0 3px;">
