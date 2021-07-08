@@ -6,8 +6,8 @@
     <div align="center">
       Hi, call me Glitchii. I like technology and programming.<br>
       I mainly program in Python, but I also have experience in JavaScript and C#.
-      I mostly work on discord bot and web development, checkout some of my projects.<br>
-      I'm currently working on <a href="https://discord.com/oauth2/authorize?client_id=663074487335649292&scope=bot&permissions=1479928959"> my discord bot</a>s website.
+      I mostly work on discord bots and web development, checkout some of my projects.<br>
+      I'm currently working on <a href="https://discord.com/oauth2/authorize?client_id=663074487335649292&scope=bot&permissions=1479928959"> my discord bot</a>'s website.
     </div>
   </p>
   <div style="display: flex; text-align: center; position: relative; left: 50%; transform: translateX(-50px);" align="center">
