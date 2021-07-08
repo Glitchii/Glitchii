@@ -45,9 +45,9 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://miro.medium.com/max/400/1*7xUxphx7WwttvlFu5gVvVw.png" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://www.ostraining.com/cdn/images/coding/html5-css3-hd.jpg" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://i.pinimg.com/236x/6c/52/12/6c52120e231ec7a7404c0b68eb09652a.jpg" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/896px-Bash_Logo_black_and_white_icon_only.svg.png" align="center" width="25px" style="padding: 0 3px;">
+  <img src="https://www.seekpng.com/png/full/141-1415523_responsive-web-design-with-html5-css3-html-and.png" align="center" width="25px" style="padding: 0 3px;">
+  <img src="https://iconape.com/wp-content/files/rr/352323/png/c-sharp-c-logo.png" align="center" width="25px" style="padding: 0 3px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png" align="center" width="25px" style="padding: 0 3px;">
   <img src="https://anfcommunity.files.wordpress.com/2020/09/powershell.png" align="center" width="25px" style="padding: 0 3px;">
 </div>
 <!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
