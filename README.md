@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=glitchii&style=flat-square&color=21262d)
+![](https://komarev.com/ghpvc/?username=test&style=flat-square)
+
 <div>
   <p align="center">
     <!-- <img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="30%"> -->
@@ -42,14 +43,14 @@
 
 <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
 <p style="font-size: 20px;  font-weight: 500;">Programming languages</p>
-<div>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://www.seekpng.com/png/full/141-1415523_responsive-web-design-with-html5-css3-html-and.png" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://iconape.com/wp-content/files/rr/352323/png/c-sharp-c-logo.png" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bash_Logo_White.svg/512px-Bash_Logo_White.svg.png" align="center" width="25px" style="padding: 0 3px;">
-  <img src="https://anfcommunity.files.wordpress.com/2020/09/powershell.png" align="center" width="25px" style="padding: 0 3px;">
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
 </div>
 <!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
 </div>
