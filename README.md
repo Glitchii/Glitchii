@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=test&style=flat-square)
 
 <div>
   <p align="center">
@@ -51,6 +50,11 @@
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+<br>
+<h3>Other Stats</h3>
+
+![](https://komarev.com/ghpvc/?username=glitchii&style=flat-square)
+
 </div>
 <!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
 </div>
