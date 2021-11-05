@@ -45,7 +45,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5) & ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
