@@ -13,8 +13,8 @@
   </p>
   <div style="display: flex; text-align: center; position: relative; left: 50%; transform: translateX(-50px);" align="center">
     <div>
-      <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="19px" style="text-align:center" align="center">
-      <a href="https://discord.com/users/642791754160013312">Discord</a>︲<img src="https://www.iconsdb.com/icons/preview/white/at-2-xxl.png" width="20px" style="text-align:center" align="center"><a href="https://glitchii.github.io/">Website</a>
+      <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px" style="text-align:center" align="center">
+      <a href="https://discord.com/users/642791754160013312">Discord</a>︲<img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="center"><a href="https://glitchii.github.io/">Website</a>
     </div>
   </div>
 
@@ -32,10 +32,10 @@
 
 <details style="cursor: pointer;">
   <summary style="margin-bottom: 3px">Contact</summary>
-       <img src="https://discord.com/assets/e05ead6e6ebc08df9291738d0aa6986d.png" width="19px " style="text-align:center" align="center">
+       <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px " style="text-align:center" align="center">
        <a href="https://discord.com/users/642791754160013312">Discord: Λcє#2562</a>
   <br>
-       <img src="https://www.flaticon.com/svg/static/icons/svg/580/580704.svg" width="19px " style="text-align:center" align="center">
+       <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px " style="text-align:center" align="center">
        <a href="mailto:hello@tempfile.site">Email: hello@tempfile.site</a>
   <br>     I'm quite active on discord, so feel free to message me there if you prefer
 </details>
