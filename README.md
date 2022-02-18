@@ -46,6 +46,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
+![PowerShell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
 <br>
