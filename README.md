@@ -52,7 +52,7 @@
   <br>
   <h3>Other Stats</h3>
   
-  ![](https://komarev.com/ghpvc/?username=glitchii&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=glitchii&style=flat-square) (Since July 9th, 2021)
   
   </div>
   <!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
