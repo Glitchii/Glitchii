@@ -4,7 +4,7 @@
       <h1>Glitchii</h1>
       <br>
       <div>
-        My name is 'Glitchii' and I love programming and technology! I have experience in Python and JavaScript and specialize in web development and software development. I am always looking to learn new stuff and improve my skills. <!-- Some of my favorite technologies to work with are React, Node.js, Express.js and anything Python offers. --> Checkout some of my projects.<br>
+        My name is 'Glitchii' and I love programming and technology! I have experience in Python and JavaScript and specialize in web and software development. I am always looking to learn new stuff and improve my skills. <!-- Some of my favorite technologies to work with are React, Node.js, Express.js and anything Python offers. --> Checkout some of my projects.<br>
       </div>
     </p>
     <div>
@@ -32,9 +32,9 @@
     Discord: <a href="https://discord.com/users/642791754160013312">Λcє#0002</a>
     <br>
     <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px" align="top">
-    Email: <a href="mailto:hello@tempfile.site">hello@tempfile.site</a>
+    Email: <a href="mailto:darlionthesis+github@gmail.com">darlionthesis+github@gmail.com</a>
     <br>
-    I'm quite active on discord, so feel free to message me there if you prefer
+    I am quite active on Discord, so feel free to message me there if you like.
   </details>
   
   <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
@@ -44,8 +44,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
   ![PowerShell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
+  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-  ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
   <br>
   <h3>Other Stats</h3>
   
