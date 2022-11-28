@@ -54,4 +54,8 @@
   </div>
   <!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
   </div>
-  
+  <sub>
+    <a target="_blank" href="https://www.fiverr.com/jonnah_d">Fiverr</a>︲
+    <a target="_blank" href="https://glitchii.github.io/">Website</a>︲
+    <a target="_blank" href="https://glitchii.github.io/contact">Contact</a>︲
+    <a target="_blank" href="https://github.com/Glitchii?tab=repositories">Repos</a>
