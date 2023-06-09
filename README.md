@@ -29,7 +29,7 @@
   <details style="cursor: pointer;">
     <summary style="margin-bottom: 5px">Contact</summary>
     <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px" align="top">
-    Discord: <a href="https://discord.com/users/642791754160013312">Λcє#0002</a>
+    Discord: <a href="https://discord.com/users/642791754160013312">Λcє#1066</a>
     <br>
     <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px" align="top">
     Email: <a href="mailto:darlionthesis+github@gmail.com">darlionthesis+github@gmail.com</a>
@@ -55,7 +55,7 @@
   <!-- <p align="center" style="text-align: center; font-size:10px">I used '<a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>' for the stats</p> -->
   </div>
   <sub>
-    <a target="_blank" href="https://www.fiverr.com/jonnah_d">Fiverr</a>︲
+    <!-- <a target="_blank" href="https://www.fiverr.com/...">Fiverr</a>︲ -->
     <a target="_blank" href="https://glitchii.github.io/">Website</a>︲
     <a target="_blank" href="https://glitchii.github.io/contact">Contact</a>︲
     <a target="_blank" href="https://github.com/Glitchii?tab=repositories">Repos</a>
