@@ -10,7 +10,7 @@
     <div>
       <div>
         <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px" style="text-align:center" align="top">
-        <a href="https://discord.com/users/642791754160013312">Discord</a>︲<img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="top"><a href="https://glitchii.github.io/">Website</a>
+        <a href="https://discord.com/users/1089951200146886737">Discord</a>︲<img src="https://avatars2.githubusercontent.com/u/46096865?s=460&u=c17d80c0914eb1efe02ebe9aeba11b1e3cf9212a" width="20px" style="text-align:center" align="top"><a href="https://glitchii.github.io/">Website</a>
       </div>
     </div>
     <br>
@@ -29,7 +29,7 @@
   <details style="cursor: pointer;">
     <summary style="margin-bottom: 5px">Contact</summary>
     <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px" align="top">
-    Discord: <a href="https://discord.com/users/642791754160013312">Λcє#1066</a>
+    Discord username: <a href="https://discord.com/users/1089951200146886737">192.168.1.14</a>
     <br>
     <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px" align="top">
     Email: <a href="mailto:darlionthesis+github@gmail.com">darlionthesis+github@gmail.com</a>
