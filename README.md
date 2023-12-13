@@ -32,7 +32,7 @@
     Discord username: <a href="https://discord.com/users/1089951200146886737">192.168.1.14</a>
     <br>
     <img src="https://www.iconsdb.com/icons/preview/caribbean-blue/at-xxl.png" width="19px" align="top">
-    Email: <a href="qkn2n77dz@relay.firefox.com">darlionthesis+github@gmail.com</a>
+    Email: <a href="mailto:qkn2n77dz@relay.firefox.com">darlionthesis+github@gmail.com</a>
     <br>
     I am quite active on Discord, so feel free to message me there if you like.
   </details>
