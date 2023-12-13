@@ -4,7 +4,7 @@
       <h1>Glitchii</h1>
       <br>
       <div>
-        My name is 'Glitchii' and I love programming and technology! I have experience in Python and JavaScript and specialize in web and software development. I am always looking to learn new stuff and improve my skills. <!-- Some of my favorite technologies to work with are React, Node.js, Express.js and anything Python offers. --> Checkout some of my projects.<br>
+        I like to do sutff.<br>
       </div>
     </p>
     <div>
