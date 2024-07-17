@@ -16,17 +16,6 @@
     <br>
   
   <details style="cursor: pointer;">
-    <summary>Statistics</summary>
-    <br>
-    <p>
-        <a href="https://github.com/glitchii" style="position: relative;left: -23px;">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchii&show_icons=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=0d1117&hide_border=true" alt="Statistics." />
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchii&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=0d1117&hide_border=true" alt="Statistics." />
-        </a>
-    </p>
-  </details>
-  
-  <details style="cursor: pointer;">
     <summary style="margin-bottom: 5px">Contact</summary>
     <img src="https://camo.githubusercontent.com/a06693be73e2ebd51c2a14ca290be2c0bcae9c68681c4dbc449a6f956ad84e1f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f313630302f646973636f72642d6e65772d6c6f676f2e706e67" width="19px" align="top">
     Discord username: <a href="https://discord.com/users/1089951200146886737">192.168.1.14</a>
@@ -45,7 +34,7 @@
   ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
   ![PowerShell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
   ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+  ![C#/.Net](https://img.shields.io/badge/-CS/.Net-000?&logo=Java)
   <br>
   <h3>Other Stats</h3>
   
