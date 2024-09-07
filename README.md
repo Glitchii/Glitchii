@@ -4,7 +4,7 @@
       <h1>Glitchii</h1>
       <br>
       <div>
-        I like to do stuff<br>
+        I like to code stuff<br>
       </div>
     </p>
     <div>
