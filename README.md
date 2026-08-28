@@ -16,7 +16,7 @@
   </details>
   
   <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
-  <h3>I usually work with</h3>
+  <h5>I usually work with</h5>
   
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
@@ -24,7 +24,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
   <br>
-  <h3>Other Stats</h3>
+
+  <h5>Other Stats</h5>
   
   ![](https://komarev.com/ghpvc/?username=glitchii&style=flat-square) <sup>since July 9th, 2021</sup>
   
