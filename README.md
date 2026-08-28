@@ -1,11 +1,6 @@
-
 <div>
     <p>
       <h1>Glitchii</h1>
-      <br>
-      <div>
-        I like to code things<br>
-      </div>
     </p>
     <div>
       <div>
@@ -18,18 +13,16 @@
     <summary style="margin-bottom: 5px">Contact</summary>
     Discord username: <a href="https://discord.com/users/1089951200146886737">192.168.1.14</a><br>
     Email: <a href="mailto:qkn2n77dz@relay.firefox.com">qkn2n77dz@relay.firefox.com</a><br>
-    I am quite active on Discord, so feel free to message me there if you like.
   </details>
   
   <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
-  <h3>Programming Languages</h3>
+  <h3>I usually work with</h3>
   
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNUBash)
-  ![PowerShell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
-  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-  ![C#/.Net](https://img.shields.io/badge/-CS/.Net-000?&logo=Java)
+  ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
   <br>
   <h3>Other Stats</h3>
   
